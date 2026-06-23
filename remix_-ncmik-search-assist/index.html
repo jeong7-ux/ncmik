@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>NCMIK Search Assist - 국립의과학지식센터 AI 지식 플랫폼</title>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&family=Hanken+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      if (window.location.hostname.includes('github.io')) {
+        window.location.replace('./dist/index.html');
+      }
+    </script>
   </head>
   <body class="bg-slate-50 text-slate-800">
     <div id="root"></div>
