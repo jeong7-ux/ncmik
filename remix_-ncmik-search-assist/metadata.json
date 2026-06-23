@@ -1,0 +1,8 @@
+{
+  "name": "Remix: NCMIK Search Assist",
+  "description": "국립의과학지식센터 AI 지식 플랫폼 및 검색 연구 비서 프로토타입. 상세한 학술 모빌리티와 필터링, 관련 키워드 클러스터 및 대화형 연구 비서 기능을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

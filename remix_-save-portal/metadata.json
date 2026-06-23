@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SAVE Portal",
+  "description": "An authoritative disaster recovery archive, offering real-time version governance, bulk document relationship mapping, orthogonal lineage visualization, and AI-powered document-grounded search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
